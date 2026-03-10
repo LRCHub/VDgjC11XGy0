@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "流星パーティーライド",
+  "base_artist": "鈴木ヒナ(HIMEHINA)",
+  "createdAt": "2026-03-10T03:51:28.355807Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星パーティーライド",
+      "artist": "鈴木ヒナ(HIMEHINA)",
+      "has_synced": false,
+      "path": "select/pl_01_流星パーティーライド_鈴木ヒナ(HIMEHINA).txt"
+    }
+  ]
+}
